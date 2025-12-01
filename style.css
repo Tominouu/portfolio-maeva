@@ -143,11 +143,10 @@ header.scrolled {
     width: 100%;
     height: 100%;
     /* Use a high-quality placeholder or gradient */
-    background-image: url('img/background.webp');
+    background-color: #b9885b;
     background-size: cover;
     background-position: center;
     z-index: -2;
-    filter: grayscale(80%) contrast(90%) blur(2px) brightness(0.7);
 }
 
 .hero-overlay {
